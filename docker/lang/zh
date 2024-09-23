@@ -1,0 +1,26 @@
+not_installed=Docker在此系统上未找到
+
+index_title=Docker容器管理
+index_return=容器列表
+
+view_container_title=容器 $1
+
+tab_info=Docker信息
+tab_containers=容器
+tab_log=日志
+tab_inspect=检查
+
+command_err=命令无法执行
+
+label_name=名称
+label_label=标签
+label_running=正在运行
+label_runningfor=运行时间
+label_cpu=CPU
+label_mem=内存
+
+label_start=启动
+label_stop=停止
+label_restart=重启
+label_refresh=刷新
+label_viewlog=查看日志

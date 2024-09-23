@@ -1,0 +1,26 @@
+not_installed=Docker wurde auf diesem System nicht gefunden
+
+index_title=Docker-Container-Verwaltung
+index_return=Containerliste
+
+view_container_title=Container $1
+
+tab_info=Docker-Info
+tab_containers=Container
+tab_log=Protokoll
+tab_inspect=Überprüfen
+
+command_err=Der Befehl konnte nicht ausgeführt werden
+
+label_name=Name
+label_label=Label
+label_running=Läuft
+label_runningfor=Läuft seit
+label_cpu=CPU
+label_mem=RAM
+
+label_start=Start
+label_stop=Stopp
+label_restart=Neustart
+label_refresh=Aktualisieren
+label_viewlog=Protokoll anzeigen

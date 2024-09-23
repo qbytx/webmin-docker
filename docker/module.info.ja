@@ -1,0 +1,4 @@
+name=Dockerコンテナを表示
+category=サーバー
+desc=Dockerコンテナ
+longdesc=Webminモジュールで、Dockerコンテナを表示し、基本的な操作を実行できます

@@ -1,0 +1,26 @@
+not_installed=Docker n'a pas été trouvé sur ce système
+
+index_title=Gestion des conteneurs Docker
+index_return=Liste des conteneurs
+
+view_container_title=Conteneur $1
+
+tab_info=Info Docker
+tab_containers=Conteneurs
+tab_log=Journal
+tab_inspect=Inspecter
+
+command_err=La commande n'a pas pu être exécutée
+
+label_name=Nom
+label_label=Étiquette
+label_running=En cours d'exécution
+label_runningfor=En cours d'exécution depuis
+label_cpu=CPU
+label_mem=RAM
+
+label_start=Démarrer
+label_stop=Arrêter
+label_restart=Redémarrer
+label_refresh=Rafraîchir
+label_viewlog=Voir le journal

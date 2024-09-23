@@ -1,0 +1,4 @@
+name=Visualizar Contêineres Docker
+category=servidores
+desc=Contêineres Docker
+longdesc=Um módulo Webmin para visualizar e executar ações básicas em seus contêineres Docker

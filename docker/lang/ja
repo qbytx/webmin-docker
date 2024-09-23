@@ -1,0 +1,26 @@
+not_installed=Dockerはこのシステムで見つかりませんでした
+
+index_title=Dockerコンテナ管理
+index_return=コンテナリスト
+
+view_container_title=コンテナ $1
+
+tab_info=Docker情報
+tab_containers=コンテナ
+tab_log=ログ
+tab_inspect=検査
+
+command_err=コマンドを実行できませんでした
+
+label_name=名前
+label_label=ラベル
+label_running=実行中
+label_runningfor=実行中の時間
+label_cpu=CPU
+label_mem=メモリ
+
+label_start=開始
+label_stop=停止
+label_restart=再起動
+label_refresh=更新
+label_viewlog=ログを表示

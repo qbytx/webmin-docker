@@ -1,0 +1,4 @@
+name=Afficher les Conteneurs Docker
+category=serveurs
+desc=Conteneurs Docker
+longdesc=Un module Webmin pour afficher et effectuer des actions de base sur vos conteneurs Docker

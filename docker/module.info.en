@@ -1,4 +1,4 @@
-name=Docker Containers
+name=View Docker Containers
 category=servers
-desc=View docker containers
-longdesc=View and perform basic actions on docker containers on the host
+desc=Docker Containers
+longdesc=A Webmin module to view & perform basic actions on your docker containers

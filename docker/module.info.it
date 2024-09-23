@@ -1,4 +1,4 @@
-name=Contenitori Docker
-category=servers
-desc=Visualizza i contenitori docker
-longdesc=Visualizza ed esegui azioni di base sui contenitori docker sull'host
+name=Visualizza Contenitori Docker
+category=server
+desc=Contenitori Docker
+longdesc=Un modulo Webmin per visualizzare e eseguire azioni di base sui tuoi contenitori Docker

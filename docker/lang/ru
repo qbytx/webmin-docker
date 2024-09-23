@@ -1,0 +1,26 @@
+not_installed=Docker не найден на этой системе
+
+index_title=Управление контейнерами Docker
+index_return=Список контейнеров
+
+view_container_title=Контейнер $1
+
+tab_info=Информация о Docker
+tab_containers=Контейнеры
+tab_log=Журнал
+tab_inspect=Инспекция
+
+command_err=Команду не удалось выполнить
+
+label_name=Имя
+label_label=Метка
+label_running=Запущен
+label_runningfor=Запущен с
+label_cpu=ЦП
+label_mem=ОЗУ
+
+label_start=Запустить
+label_stop=Остановить
+label_restart=Перезагрузить
+label_refresh=Обновить
+label_viewlog=Просмотреть журнал
