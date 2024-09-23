@@ -1,4 +1,3 @@
-name=Docker-Container anzeigen
-category=Server
 desc=Docker-Container
-longdesc=Ein Webmin-Modul zum Anzeigen und Ausführen grundlegender Aktionen auf Ihren Docker-Containern
+category=servers
+version=1.1

@@ -1,4 +1,3 @@
-name=Ver Contenedores Docker
-category=servidores
 desc=Contenedores Docker
-longdesc=Un módulo de Webmin para ver y realizar acciones básicas en tus contenedores Docker
+category=servers
+version=1.1
